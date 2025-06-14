@@ -1,0 +1,7 @@
+Pote de 1k
+
+LDR de 0 (mucha luz) a 100k (nada de luz)
+
+El DC es una triangular
+
+La lectura del adc es una senoidal, con un transitorio inicial
